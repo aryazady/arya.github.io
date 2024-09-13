@@ -14,21 +14,29 @@ social-telegram: arya_zero # add your Facebook handle
 social-github: aryazady # add your Github handle
 social-linkedin: arya-z # add your Linkedin handle
 social-email: aryazadebrahimi@gmail.com # add your Email address
+# theme_skin: blue # blue turquoise green berry orange ceramic teal oceanstale
 
 # Disqus
-discus-identifier: arya-z # add your discus identifier
+# discus-identifier: arya-z # add your discus identifier
 
 # # Tracker
 # analytics: # Google Analytics
+
+# Sass/SCSS
+# sass:
+#   sass_dir: /assets/css
+#   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+encoding: "utf-8"
 
 # Build Settings
 markdown: kramdown
 plugins:
   - jekyll-sitemap
-  - jekyll-paginate
+  # - jekyll-paginate
   - jemoji
 
-paginate: 8
-paginate_path: "/page/:num"
+# paginate: 8
+# paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
