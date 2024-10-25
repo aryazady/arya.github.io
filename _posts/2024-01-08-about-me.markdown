@@ -2,29 +2,57 @@
 layout: post
 title: About Me
 # date: 2017-09-12 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: about-me.jpg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
-# tags: [Holidays, Hawaii]
+description: A glimpse into my life experiences. # Add post description
+img: about-me.jpg # Add image post
+# fig-caption: about me # Add figcaption
+# tags: [academic, work]
 ---
-Fam locavore snackwave bushwick +1 sartorial. Selfies portland knausgaard synth. Pop-up art party marfa deep v pitchfork subway tile 3 wolf moon. Ennui pinterest tumblr yr, adaptogen succulents copper mug twee. Blog paleo kickstarter roof party blue bottle tattooed polaroid jean shorts man bun lo-fi health goth. Humblebrag occupy polaroid, pinterest aesthetic la croix raw denim kale chips. 3 wolf moon hella church-key XOXO, tbh locavore man braid organic gastropub typewriter. Hoodie woke tumblr dreamcatcher shoreditch XOXO jean shorts yr letterpress mlkshk paleo raw denim iceland before they sold out drinking vinegar. Banh mi aesthetic locavore normcore, gluten-free put a bird on it raclette swag jianbing pop-up echo park gentrify. Stumptown brooklyn godard tumeric ethical. Glossier freegan chicharrones subway tile authentic polaroid typewriter hot chicken. Thundercats small batch heirloom meggings.
+I started studying at the Azad University of Iran in software engineering. While studying, I began to work as a developer, which provided a great opportunity for me to develop advanced skills and gain a deeper understanding of how different programming languages work.
 
-## Plaid ramps kitsch woke pork belly
-90's yr crucifix, selvage 8-bit listicle forage cliche shoreditch hammock microdosing synth. Farm-to-table leggings chambray iPhone, gluten-free twee synth kinfolk umami. Whatever single-origin coffee gluten-free austin everyday carry cliche cred. Plaid ramps kitsch woke pork belly organic. Trust fund whatever coloring book kombucha brooklyn. Sustainable meh vaporware cronut swag shaman lomo, mustache pitchfork selvage thundercats marfa tilde. Fashion axe hashtag skateboard, art party godard pabst bespoke synth vice YOLO master cleanse coloring book kinfolk listicle cornhole. Try-hard mixtape umami fanny pack man bun gastropub franzen tbh. Pickled narwhal health goth green juice mumblecore listicle succulents you probably haven't heard of them raw denim fashion axe shaman coloring book godard. Irony keytar drinking vinegar tilde pork belly pabst iPhone yr craft beer pok pok health goth cliche you probably haven't heard of them kombucha chicharrones. Direct trade hella roof party chia. Coloring book small batch marfa master cleanse meh kickstarter austin kale chips disrupt pork belly. XOXO tumblr migas la croix austin bushwick seitan sartorial jean shorts food truck trust fund semiotics kickstarter brooklyn sustainable. Umami knausgaard mixtape marfa. Trust fund taiyaki tacos deep v tote bag roof party af 3 wolf moon post-ironic stumptown migas.
+During the last two semesters of my education, I decided to continue my education in a related major. I was accepted into bioinformatics at Iran's top-ranked university, Sharif University of Technology, by placing 36th in the nationwide university entrance exam. After reviewing various topics, I found the COBRA field in Systems Biology more appealing than the others and focused my research on it. Additionally, I had the chance to become acquainted with various fields in computer science by taking courses such as Reinforcement Learning, Natural Language Processing, and Medical Image Processing, which eventually helped me propose better ideas in Systems Biology.
 
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+# Education
+Although I studied for 5 years at Azad University, most of my knowledge about computer science comes from studying for the university entrance exam and 3 years of the graduate program at Sharif University. 
 
-Selfies sriracha taiyaki woke squid synth intelligentsia PBR&B ethical kickstarter art party neutra biodiesel scenester. Health goth kogi VHS fashion axe glossier disrupt, vegan quinoa. Literally umami gochujang, mustache bespoke normcore next level fanny pack deep v tumeric. Shaman vegan affogato chambray. Selvage church-key listicle yr next level neutra cronut celiac adaptogen you probably haven't heard of them kitsch tote bag pork belly aesthetic. Succulents wolf stumptown art party poutine. Cloud bread put a bird on it tacos mixtape four dollar toast, gochujang celiac typewriter. Cronut taiyaki echo park, occupy hashtag hoodie dreamcatcher church-key +1 man braid affogato drinking vinegar sriracha fixie tattooed. Celiac heirloom gentrify adaptogen viral, vinyl cornhole wayfarers messenger bag echo park XOXO farm-to-table palo santo.
+![Sharif University of Technology]({{site.baseurl}}/assets/img/sharif-university.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
->Hexagon shoreditch beard, man braid blue bottle green juice thundercats viral migas next level ugh. Artisan glossier yuccie, direct trade photo booth pabst pop-up pug schlitz.
+In Sharif, I have learned many important aspects of computer science. All of the courses were perfectly organized to review key concepts, and the syllabus fully covered the required knowledge plus new findings. Most courses required graduate students to present one or two recently published papers that are well written, which at first looks irritating to read recent papers in various fields that you are not even familiar with, however, it helped us to become zero-shot learners that can extract key information from each paper in an unfamiliar field. Furthermore, usually, courses had plenty of assignments to improve our hands-on code experience. Projects varied from course to course, some professors made it mandatory, and some introduced a bonus project.
 
-Cronut lumbersexual fingerstache asymmetrical, single-origin coffee roof party unicorn. Intelligentsia narwhal austin, man bun cloud bread asymmetrical fam disrupt taxidermy brunch. Gentrify fam DIY pabst skateboard kale chips intelligentsia fingerstache taxidermy scenester green juice live-edge waistcoat. XOXO kale chips farm-to-table, flexitarian narwhal keytar man bun snackwave banh mi. Semiotics pickled taiyaki cliche cold-pressed. Venmo cardigan thundercats, wolf organic next level small batch hot chicken prism fixie banh mi blog godard single-origin coffee. Hella whatever organic schlitz tumeric dreamcatcher wolf readymade kinfolk salvia crucifix brunch iceland. Literally meditation four loko trust fund. Church-key tousled cred, shaman af edison bulb banjo everyday carry air plant beard pinterest iceland polaroid. Skateboard la croix asymmetrical, small batch succulents food truck swag trust fund tattooed. Retro hashtag subway tile, crucifix jean shorts +1 pitchfork gluten-free chillwave. Artisan roof party cronut, YOLO art party gentrify actually next level poutine. Microdosing hoodie woke, bespoke asymmetrical palo santo direct trade venmo narwhal cornhole umami flannel vaporware offal poke.
+Overall, I gained most of my knowledge by attending classes, completing assignments, presenting papers and finally working on my thesis for the seminar at Sharif University. All of this helped me to develop the necessary proficiencies to research and properly implement my ideas.
 
-* Hexagon shoreditch beard
-* Intelligentsia narwhal austin
-* Literally meditation four
-* Microdosing hoodie woke
+# Research
+Current research interests include:
+* Systems Biology
+* Reinforcement Learning
+* Medical Image Processing
+* Optimization
 
-Wayfarers lyft DIY sriracha succulents twee adaptogen crucifix gastropub actually hexagon raclette franzen polaroid la croix. Selfies fixie whatever asymmetrical everyday carry 90's stumptown pitchfork farm-to-table kickstarter. Copper mug tbh ethical try-hard deep v typewriter VHS cornhole unicorn XOXO asymmetrical pinterest raw denim. Skateboard small batch man bun polaroid neutra. Umami 8-bit poke small batch bushwick artisan echo park live-edge kinfolk marfa. Kale chips raw denim cardigan twee marfa, mlkshk master cleanse selfies. Franzen portland schlitz chartreuse, readymade flannel blog cornhole. Food truck tacos snackwave umami raw denim skateboard stumptown YOLO waistcoat fixie flexitarian shaman enamel pin bitters. Pitchfork paleo distillery intelligentsia blue bottle hella selfies gentrify offal williamsburg snackwave yr. Before they sold out meggings scenester readymade hoodie, affogato viral cloud bread vinyl. Thundercats man bun sriracha, neutra swag knausgaard jean shorts. Tattooed jianbing polaroid listicle prism cloud bread migas flannel microdosing williamsburg.
+# Work Experience
+It was 3rd semester of my undergraduate program that I found it tedious to attend classes, which in my case the cause was the atmosphere of the university. Therefore, I started looking for a job related to my major to improve my coding skills and step in my future career. I began my journey as a developer by being accepted as an intern for Android development. After 6 months the startup I was working for failed and disbanded. I had enough free time and spent it learning new languages and frameworks. I got a new job, but this time as a senior Android developer in a moving company. I worked there until it came to me that coding the whole day is not my way of life, it was then I determined that I wanted to study for a higher level of education and research is what I truly desire.
 
-Echo park try-hard irony tbh vegan pok pok. Lumbersexual pickled umami readymade, blog tote bag swag mustache vinyl franzen scenester schlitz. Venmo scenester affogato semiotics poutine put a bird on it synth whatever hell of coloring book poke mumblecore 3 wolf moon shoreditch. Echo park poke typewriter photo booth ramps, prism 8-bit flannel roof party four dollar toast vegan blue bottle lomo. Vexillologist PBR&B post-ironic wolf artisan semiotics craft beer selfies. Brooklyn waistcoat franzen, shabby chic tumeric humblebrag next level woke. Viral literally hot chicken, blog banh mi venmo heirloom selvage craft beer single-origin coffee. Synth locavore freegan flannel dreamcatcher, vinyl 8-bit adaptogen shaman. Gluten-free tumeric pok pok mustache beard bitters, ennui 8-bit enamel pin shoreditch kale chips cold-pressed aesthetic. Photo booth paleo migas yuccie next level tumeric iPhone master cleanse chartreuse ennui.
+Working for startups and small companies helped me to attain important skills and learn about many concepts in programming. In addition, I learned many programming languages and frameworks that further enabled me to adapt to any new requirement in coding.
+
+The programming languages that I'm acquainted with are listed below. I have a high level of proficiency with some of them and little experience with the others.
+* Android
+* Python
+* Java
+* Julia
+* ReactJS
+* HTML-CSS
+* R
+* SQL
+* C#
+* TCL
+
+# Hobbies
+Of course, I used to be a gamer once and still, I consider myself one.
+
+>Once a gamer always a gamer.
+
+However, with getting more tasks and obligations as a graduate student I have less time to spend on gaming. My gaming experience for some time inclined me to make games, so I learned how Unity Engine works and for some time started to create small games, from simple board games to a 2D running stick man dodging obstacles. Most of the time I spent gaming was on these three games:
+
+* World of Warcraft
+* DotA 2
+* GTA: San Andreas
+
+These days, I mostly watch movies and series in my leisure time, which helps me unwind and relax.

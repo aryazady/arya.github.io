@@ -1,26 +1,12 @@
 ---
 layout: post
-title: Work Experience & Projects
+title: Work Experience
 # date: 2017-04-06 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Detailed Explanation of My Working Experience. # Add post description (optional)
 img: working.jpg # Add image post (optional)
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+My working experience started with an internship in a startup, Mibarim. After a month when I got enough skills to join the team, they shared a side project (Kerayechi) with me and I was responsible for developing it. In a short time, I got a chance to work on three different projects simultaneously. However, the startup failed months later and the team disbanded.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I got an offer from the previous CEO to work on a new project, Nobaar. However, this time we had the funds to maintain the team. This time I was the only Android developer and advanced the project single-handedly. I was responsible for developing two separate applications, and also I had to organize APIs and decide objects from servers. We had significant progress in a month and we could manage requests properly.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Nevertheless, I wanted to research more and look for novel approaches, which propelled me to continue my study from where I left off. So, I participated in the MS entrance exam and started my graduate program.

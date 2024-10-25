@@ -13,7 +13,7 @@ sidebar:
     avatar: arya-zadebrahimi.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: aryazadebrahimi.gmail.com
+    email: aryazadebrahimi@gmail.com
     # phone: 012 345 6789
     # timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     # citizenship:
@@ -40,226 +40,221 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
+          level: Proficient
 
     interests:
-      title: Interests
+      title: Teaching Assistant
       info:
-        - item: Climbing
+        - item: Medical Image Processing
+          link: 
+
+        - item: Generative Models
           link:
 
-        - item: Snowboarding
-          link:
+        # - item: RL
+        #   link:
 
-        - item: Cooking
-          link:
+        # - item: Optimization
+        #   link:
 
 career-profile:
-    title: Career Profile
+    title: Research Interest
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      - Systems Biology
+      - Reinforcement Learning
+      - Medical Image Processing
+      - Optimization
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: MS in Bioinformatics
+        university: Sharif University of Technology
+        time: 2021 - 2024
+        gpa: 3.9 (18.2/20)
+        # details: In the master's program, we were expected to conduct extensive research and present papers on the latest scholarly topics across various fields, in addition to enhancing our implementation skills through coding.
+
+      - degree: BS in Computer Engineering
+        university: Azad University
+        time: 2015 - 2020
+        gpa: 3.07 (15.58/20)
+        # details: |
+          # description
 
 experiences:
-    title: Experiences
+    title: Working Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Android Developer
+        time: 2017 - 2018
+        # company: Mibarim, Tehran
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          In one year of experience as an Android Developer, I contributed to five projects across two different companies: Mibarim and Nobaar.
+      # - role: Senior Android Developer
+      #   time: Jun 2018 - Dec 2018
+      #   company: Nobaar, Tehran
+      #   details: |
+      #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #     Cum sociis natoque penatibus et magnis dis parturient montes,
+      #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #     pellentesque eu, pretium quis, sem.
+      #       - Nobaar Driver
+      #       - Nobaar User
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: TOEFL
+          start: Oct 2024
+          # end: 2021
+          organization: Educational Testing Service
+          # credentialid: 7458310240326338
+          # credentialurl: www.google.com
+          # credentialname: Google
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            I took the TOEFL and scored **104**. You can see the detailed scores for each section below.
+            - Reading &nbsp;&nbsp;&nbsp;&nbsp; 30
+            - Listening &nbsp;&nbsp; 28
+            - Speaking &nbsp;&nbsp; 23
+            - Writing &emsp; 23
+        # - name: Git learning
+        #   start: 2019
+        #   end:
+        #   organization: Microsoft
+        #   credentialid: 111-222
+        #   credentialurl: www.github.com
+        #   credentialname: Github
+        #   details: |
+        #     Older certification. Lorem ipsum dolor sit amet, consectetur
+        #     adipiscing elit.
+        #     Nullam eget orci purus. Nullam ultrices neque nibh.
+        #     Aenean fermentum, felis vulputate suscipit accumsan,
+        #     sem enim bibendum augue, sed convallis arcu lacus at dui.
+        #     Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+        #     Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+        #     Praesent venenatis erat non augue suscipit consectetur.
+research:
+    title: Research Experience
+    intro: >
+      My primary focus has been on constraint-based reconstruction and analysis within the field of Systems Biology. I have been particularly interested in microbial communities because of their robustness to mutation and other disturbances and proposed an optimization to find a community with the highest growth rate. To be more specific, I designed a constraint-based optimization regarding a previous work (SteadyCom) that enforces the community to be modular and maximize the growth rate. However, such optimizations are often computationally expensive and time-consuming. 
+      <br/><br/>
+      Currently, I am working on developing a framework to find the most informative numerical representation of bacterium fluxome to exploit it for the prediction of target objectives. In order to achieve this, we need to employ Deep Neural Networks and meaningful features for metabolic reactions, a project I am actively researching and excited to advance in the future.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+    # assignments:
+    #   - title: Microarray gene expression analysis
+    #     link: https://github.com/aryazady/projects-coding-experiences/tree/main/Microarray%20Gene%20Expression%20-%20AML%20Involved%20Genes
+    #     tagline: "Analysis of microarray gene expression data to identify genes involved in AML (Acute Myeloid Leukemia)."
+
+    #   - title: Structural analysis of Fruquintinib
+    #     link: https://github.com/aryazady/projects-coding-experiences/tree/main/Fruquintinib%20Docking%20and%20Configuration%20Optimization
+    #     tagline: "Docking and optimizing the conformation of the Fruquintinib inhibitor molecule."
+
+    #   - title: scRNA-seq analysis
+    #     link: https://github.com/aryazady/projects-coding-experiences/blob/main/Machine%20Learning/scRNA_seq_analysis_pipeline.ipynb
+    #     tagline: "Pipeline for single-cell RNA sequencing clustering and analysis."
+
+    #   - title: Financial market price prediction
+    #     link: https://github.com/aryazady/projects-coding-experiences/tree/main/Natural%20Language%20Processing/Financial%20Market%20Prediction
+    #     tagline: "A transformer-based model for predicting the next candle based on a window of previous candles."
+
+    #   - title: More implementations
+    #     link: https://github.com/aryazady/projects-coding-experiences
+    #     tagline: "Additional implementations are available in this repository for further exploration and detailed review"
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Highlights of my academic and personal projects.
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Microarray gene expression analysis
+        link: https://github.com/aryazady/projects-coding-experiences/tree/main/Microarray%20Gene%20Expression%20-%20AML%20Involved%20Genes
+        tagline: "Analysis of microarray gene expression data to identify genes involved in AML (Acute Myeloid Leukemia)."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Structural analysis of Fruquintinib
+        link: https://github.com/aryazady/projects-coding-experiences/tree/main/Fruquintinib%20Docking%20and%20Configuration%20Optimization
+        tagline: "Docking and optimizing the conformation of the Fruquintinib inhibitor molecule."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: scRNA-seq analysis
+        link: https://github.com/aryazady/projects-coding-experiences/blob/main/Machine%20Learning/scRNA_seq_analysis_pipeline.ipynb
+        tagline: "Pipeline for single-cell RNA sequencing clustering and analysis."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Financial market price prediction
+        link: https://github.com/aryazady/projects-coding-experiences/tree/main/Natural%20Language%20Processing/Financial%20Market%20Prediction
+        tagline: "A transformer-based model for predicting the next candle based on a window of previous candles."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: More implementations
+        link: https://github.com/aryazady/projects-coding-experiences
+        tagline: "Additional implementations are available in this repository for further exploration and detailed review"
 
 oss:
-    title: OSS Contributions
+    title: Open-Source Software
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This section showcases my contributions to open-source software projects. You can explore the code, and features of each software to understand their functionality.
+
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: BT-Messaging
+        link: https://github.com/aryazady/BT-Messaging
+        tagline: "Messaging Application using Bluetooth Low Energy (BLE) to Send and Receive Messages."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
+      - name: Python
+        level: 100%
+
+      - name: Pytorch
+        level: 99%
+
+      - name: Android
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java
+        level: 97%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: SQL
         level: 95%
 
-      - name: Ruby on Rails
+      - name: HTML - CSS
+        level: 93%
+
+      - name: Julia
+        level: 92%
+
+      - name: TCL
+        level: 90%
+
+      - name: R
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: C#
+        level: 75%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: ReactJS
+        level: 65%
+
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
