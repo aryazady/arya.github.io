@@ -45,7 +45,7 @@ sidebar:
     interests:
       title: Teaching Assistant
       info:
-        - item: Medical Image Processing
+        - item: Biomedical Image Processing
           link: 
 
         - item: Generative Models
@@ -60,10 +60,9 @@ sidebar:
 career-profile:
     title: Research Interest
     summary: |
-      - Systems Biology
+      - Microbial Communities
+      - Metabolic Engineering
       - Reinforcement Learning
-      - Medical Image Processing
-      - Optimization
 
 education:
     title: Education
@@ -82,13 +81,19 @@ education:
           # description
 
 experiences:
-    title: Working Experiences
+    title: Further Experiences
     info:
+      - role: Intern
+        time: 2022
+        company: Iran University of Medical Sciences
+        details: |
+          In a short-term internship, we learned how to lysis a cell to extract DNA and use PCR to detect a specific DNA sequence. Also, we experienced cell culture and cell counting using a microscope.
+      
       - role: Android Developer
         time: 2017 - 2018
-        # company: Mibarim, Tehran
+        company: Nobaar, Tehran | Mibarim, Tehran
         details: |
-          In one year of experience as an Android Developer, I contributed to five projects across two different companies: Mibarim and Nobaar.
+          In one year of experience as an Android Developer, I contributed to five projects across two different companies.
       # - role: Senior Android Developer
       #   time: Jun 2018 - Dec 2018
       #   company: Nobaar, Tehran
@@ -136,7 +141,7 @@ certifications:
 research:
     title: Research Experience
     intro: >
-      My primary focus has been on constraint-based reconstruction and analysis within the field of Systems Biology. I have been particularly interested in microbial communities because of their robustness to mutation and other disturbances and proposed an optimization to find a community with the highest growth rate. To be more specific, I designed a constraint-based optimization regarding a previous work (SteadyCom) that enforces the community to be modular and maximize the growth rate. However, such optimizations are often computationally expensive and time-consuming. 
+      My primary focus has been on constraint-based reconstruction and analysis within the field of Systems Biology. I have been particularly interested in microbial communities because they show robustness to mutation and other disturbances, and proposed an optimization to find a community with the highest growth rate. To be more specific, I designed a constraint-based optimization regarding a previous work (SteadyCom) that enforces the community to be modular and maximize the growth rate. However, such optimizations are often computationally expensive and time-consuming. 
       <br/><br/>
       Currently, I am working on developing a framework to find the most informative numerical representation of bacterium fluxome to exploit it for the prediction of target objectives. In order to achieve this, we need to employ Deep Neural Networks and meaningful features for metabolic reactions, a project I am actively researching and excited to advance in the future.
 
@@ -235,17 +240,17 @@ skills:
       - name: Java
         level: 97%
 
+      - name: Julia
+        level: 95%
+
       - name: SQL
         level: 95%
 
       - name: HTML - CSS
-        level: 93%
-
-      - name: Julia
-        level: 92%
+        level: 95%
 
       - name: TCL
-        level: 90%
+        level: 93%
 
       - name: R
         level: 85%

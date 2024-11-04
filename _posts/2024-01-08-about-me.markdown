@@ -9,23 +9,22 @@ img: about-me.jpg # Add image post
 ---
 I started studying at the Azad University of Iran in software engineering. While studying, I began to work as a developer, which provided a great opportunity for me to develop advanced skills and gain a deeper understanding of how different programming languages work.
 
-During the last two semesters of my education, I decided to continue my education in a related major. I was accepted into bioinformatics at Iran's top-ranked university, Sharif University of Technology, by placing 36th in the nationwide university entrance exam. After reviewing various topics, I found the COBRA field in Systems Biology more appealing than the others and focused my research on it. Additionally, I had the chance to become acquainted with various fields in computer science by taking courses such as Reinforcement Learning, Natural Language Processing, and Medical Image Processing, which eventually helped me propose better ideas in Systems Biology.
+During the last two semesters of my education, I decided to continue my education in a related major. I was accepted into Bioinformatics at Iran's top-ranked university, Sharif University of Technology, by placing 36th in the nationwide university entrance exam. After reviewing various topics, I found the COBRA field in Systems Biology more appealing than the others and focused my research on it. Additionally, I had the chance to become acquainted with various fields in computer science by taking courses such as Reinforcement Learning, Natural Language Processing, and Medical Image Processing, which eventually helped me to have broader ideas in Systems Biology.
 
 # Education
-Although I studied for 5 years at Azad University, most of my knowledge about computer science comes from studying for the university entrance exam and 3 years of the graduate program at Sharif University. 
+I studied for my BS for 5.5 years at Azad University and my MS for 3 years at Sharif University of Technology.
 
 ![Sharif University of Technology]({{site.baseurl}}/assets/img/sharif-university.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
-In Sharif, I have learned many important aspects of computer science. All of the courses were perfectly organized to review key concepts, and the syllabus fully covered the required knowledge plus new findings. Most courses required graduate students to present one or two recently published papers that are well written, which at first looks irritating to read recent papers in various fields that you are not even familiar with, however, it helped us to become zero-shot learners that can extract key information from each paper in an unfamiliar field. Furthermore, usually, courses had plenty of assignments to improve our hands-on code experience. Projects varied from course to course, some professors made it mandatory, and some introduced a bonus project.
+In Sharif, I have learned many important aspects of Computer Science. The courses were perfectly organized to review key concepts and require knowledge of new findings. Most courses required graduate students to present one or two decent recently published papers, which at first seemed irritating, reading recent papers in various fields that you were not even familiar with. However, it helped us become zero-shot learners who could extract key information from each paper in an unfamiliar field. Furthermore, the courses had plenty of assignments to improve our hands-on code experience. Projects varied from course to course, some professors made it mandatory, and some introduced a bonus project.
 
 Overall, I gained most of my knowledge by attending classes, completing assignments, presenting papers and finally working on my thesis for the seminar at Sharif University. All of this helped me to develop the necessary proficiencies to research and properly implement my ideas.
 
 # Research
 Current research interests include:
-* Systems Biology
+* Microbial Communities
+* Metabolic Engineering
 * Reinforcement Learning
-* Medical Image Processing
-* Optimization
 
 # Work Experience
 It was 3rd semester of my undergraduate program that I found it tedious to attend classes, which in my case the cause was the atmosphere of the university. Therefore, I started looking for a job related to my major to improve my coding skills and step in my future career. I began my journey as a developer by being accepted as an intern for Android development. After 6 months the startup I was working for failed and disbanded. I had enough free time and spent it learning new languages and frameworks. I got a new job, but this time as a senior Android developer in a moving company. I worked there until it came to me that coding the whole day is not my way of life, it was then I determined that I wanted to study for a higher level of education and research is what I truly desire.

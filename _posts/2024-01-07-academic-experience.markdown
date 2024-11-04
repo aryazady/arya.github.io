@@ -8,7 +8,7 @@ img: academic-experience.jpg # Add image post (optional)
 ---
 
 # Undergraduate
-I received my BS degree in Software Engineering from Azad University of Iran. I graduated with a GPA of 2.95, which I'm not very proud of. As a final project (some kind of thesis for undergraduate) in 2020, I developed an Android app that can send and receive messages like any other messaging app, but it only operates on Bluetooth to connect people in a wide area whereby each person acts as a hub in the network. You can find the source code in the link below.
+I received my BS degree in Software Engineering from Azad University of Iran. I graduated with a GPA of 3, which I'm not very proud of. As a final project (some kind of thesis for undergraduate) in 2021, I developed an Android app that can send and receive messages like any other messaging app, but it only operates on Bluetooth to connect people in a wide area whereby each person acts as a hub in the network. You can find the source code in the link below.
 
 [Messaging Application using Bluetooth Low Energy (BLE) to Send and Receive Messages](https://github.com/aryazady/BT-Messaging)
 
