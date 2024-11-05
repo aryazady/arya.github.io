@@ -24,6 +24,7 @@ Overall, I gained most of my knowledge by attending classes, completing assignme
 Current research interests include:
 * Microbial Communities
 * Metabolic Engineering
+* Graph Neural Networks
 * Reinforcement Learning
 
 # Work Experience
@@ -42,16 +43,3 @@ The programming languages that I'm acquainted with are listed below. I have a hi
 * SQL
 * C#
 * TCL
-
-# Hobbies
-Of course, I used to be a gamer once and still, I consider myself one.
-
->Once a gamer always a gamer.
-
-However, with getting more tasks and obligations as a graduate student I have less time to spend on gaming. My gaming experience for some time inclined me to make games, so I learned how Unity Engine works and for some time started to create small games, from simple board games to a 2D running stick man dodging obstacles. Most of the time I spent gaming was on these three games:
-
-* World of Warcraft
-* DotA 2
-* GTA: San Andreas
-
-These days, I mostly watch movies and series in my leisure time, which helps me unwind and relax.

@@ -31,7 +31,7 @@ sidebar:
     # mastodon:  # Please include your full Mastodon link here.
     # hackerrank: # Please provide your HackerRank username.
     # leetcode: # Please provide your LeetCode username.
-    pdf: http://google.com # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdf: assets/cv.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Languages
@@ -62,6 +62,7 @@ career-profile:
     summary: |
       - Microbial Communities
       - Metabolic Engineering
+      - Graph Neural Networks
       - Reinforcement Learning
 
 education:
@@ -169,7 +170,7 @@ research:
 projects:
     title: Projects
     intro: >
-      Highlights of my academic and personal projects.
+      Selected academic and personal projects.
 
     assignments:
       - title: Microarray gene expression analysis
