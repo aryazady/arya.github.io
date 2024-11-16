@@ -142,30 +142,21 @@ certifications:
 research:
     title: Research Experience
     intro: >
-      My primary focus has been on constraint-based reconstruction and analysis within the field of Systems Biology. I have been particularly interested in microbial communities because they show robustness to mutation and other disturbances, and proposed an optimization to find a community with the highest growth rate. To be more specific, I designed a constraint-based optimization regarding a previous work (SteadyCom) that enforces the community to be modular and maximize the growth rate. However, such optimizations are often computationally expensive and time-consuming. 
-      <br/><br/>
-      Currently, I am working on developing a framework to find the most informative numerical representation of bacterium fluxome to exploit it for the prediction of target objectives. In order to achieve this, we need to employ Deep Neural Networks and meaningful features for metabolic reactions, a project I am actively researching and excited to advance in the future.
+      My primary interest is metabolic engineering and metabolic flux prediction. You can find my research list below. 
 
-    # assignments:
-    #   - title: Microarray gene expression analysis
-    #     link: https://github.com/aryazady/projects-coding-experiences/tree/main/Microarray%20Gene%20Expression%20-%20AML%20Involved%20Genes
-    #     tagline: "Analysis of microarray gene expression data to identify genes involved in AML (Acute Myeloid Leukemia)."
+    assignments:
+      - title: Synthetic auxotrophic community design with maximum growth rate
+        tagline: Constrained Optimization<br>
 
-    #   - title: Structural analysis of Fruquintinib
-    #     link: https://github.com/aryazady/projects-coding-experiences/tree/main/Fruquintinib%20Docking%20and%20Configuration%20Optimization
-    #     tagline: "Docking and optimizing the conformation of the Fruquintinib inhibitor molecule."
+      - title: Increase by-product yield using a synthetic community
+        tagline: Constrained Optimization
 
-    #   - title: scRNA-seq analysis
-    #     link: https://github.com/aryazady/projects-coding-experiences/blob/main/Machine%20Learning/scRNA_seq_analysis_pipeline.ipynb
-    #     tagline: "Pipeline for single-cell RNA sequencing clustering and analysis."
+      - title: Organism flux prediction using Graph neural networks
+        tagline: Graph neural network
 
-    #   - title: Financial market price prediction
-    #     link: https://github.com/aryazady/projects-coding-experiences/tree/main/Natural%20Language%20Processing/Financial%20Market%20Prediction
-    #     tagline: "A transformer-based model for predicting the next candle based on a window of previous candles."
-
-    #   - title: More implementations
-    #     link: https://github.com/aryazady/projects-coding-experiences
-    #     tagline: "Additional implementations are available in this repository for further exploration and detailed review"
+      # - title: Financial market price prediction
+        # link: https://github.com/aryazady/projects-coding-experiences/tree/main/Natural%20Language%20Processing/Financial%20Market%20Prediction
+        # tagline: "A transformer-based model for predicting the next candle based on a window of previous candles."
 
 projects:
     title: Projects

@@ -1637,7 +1637,6 @@ h6 {
   font-size: 16px;
   font-weight: 400;
   margin-top: 0;
-  margin-bottom: 5px;
   color: #2e4049;
 }
 
@@ -1646,6 +1645,10 @@ h6 {
 }
 
 .resume .main-wrapper .projects-section .item {
+  margin-bottom: 15px;
+}
+
+.resume .main-wrapper .research-section .item {
   margin-bottom: 15px;
 }
 
