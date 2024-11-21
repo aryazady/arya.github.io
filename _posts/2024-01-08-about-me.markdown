@@ -30,9 +30,8 @@ Current research interests include:
 # Work Experience
 It was during the third semester of my undergraduate program that I discovered my passion for application development. Motivated to refine my coding skills and prepare for my future career, I sought a position aligned with my field of study. This led me to begin my journey as an Android development intern. Although the startup I joined disbanded after six months, the experience was invaluable, offering me hands-on exposure to real-world development.
 
-With newfound time on my hands, I focused on expanding my skill set, delving into new programming languages and frameworks. Soon after, I secured a position as a senior Android developer at a moving company. While the role further honed my technical expertise, I realized that a career solely centered around coding wasn’t my ultimate goal. This epiphany drove me to pursue higher education, where I could combine my technical skills with research—a path I truly desired.
-
-Working for startups and small companies provided me with a unique blend of technical and soft skills. I gained a deep understanding of programming concepts while learning to adapt to the ever-changing demands of the industry. These experiences shaped my ability to quickly acquire and apply knowledge in diverse programming environments.
+With newfound time on my hands, I focused on expanding my skill set, searching for new programming languages and frameworks. Soon after, I secured a position as a senior Android developer at a moving company. While the role further improved my technical expertise, I realized that a career solely centered around coding wasn’t my ultimate goal. This realization drove me to pursue higher education, where I could combine my technical skills with research—a path I truly desired.
+Working for startups and small companies provided me with a unique blend of technical and communication skills. I gained a deep understanding of programming concepts while learning to adapt to the ever-changing demands of the industry. These experiences shaped my ability to quickly acquire and apply knowledge in diverse programming environments.
 
 Below is a list of programming languages I am familiar with. While I have advanced proficiency in some, I also have foundational knowledge in others, continuously building on my expertise:
 
