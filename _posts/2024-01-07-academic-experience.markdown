@@ -5,6 +5,7 @@ title: Education, Projects, Research
 description: A deeper look into my academic achievements. # Add post description (optional)
 img: academic-experience.jpg # Add image post (optional)
 # tags: [Productivity, Software] # add tag
+visibility: False
 ---
 
 # Undergraduate

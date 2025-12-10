@@ -6,6 +6,7 @@ description: A glimpse into my life experiences. # Add post description
 img: about-me.jpg # Add image post
 # fig-caption: about me # Add figcaption
 # tags: [academic, work]
+visibility: False
 ---
 I started studying at the Azad University of Iran in software engineering. While studying, I began to work as a developer, which provided a great opportunity for me to develop advanced skills and gain a deeper understanding of how different programming languages work.
 
